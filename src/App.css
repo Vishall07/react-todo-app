@@ -47,8 +47,9 @@
 p{
   display: flex;
   /* align-items: center; */
-  justify-content: center;
+  
   /* align-self: auto; */
+  justify-content: center;
 
   
 }
