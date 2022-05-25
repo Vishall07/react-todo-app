@@ -1,0 +1,9 @@
+body{
+    background-color: antiquewhite;
+}
+.list-items{
+    /* border: 1px solid black; */
+    
+    min-width:40%;
+    border-bottom: 1px solid black;
+}
